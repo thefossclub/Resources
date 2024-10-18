@@ -43,6 +43,20 @@ Welcome to The FOSS Club's ultimate resource pack for beginners in tech! This gu
 - Website: [Learn C++](https://www.learncpp.com/)
 - Project Ideas: [C++ Projects for Beginners](https://www.geeksforgeeks.org/c-plus-plus-projects/)
 - Practice: [Codeforces C++ Problems](https://codeforces.com/problemset)
+  
+### C
+- Book:["Learn C The Hard Way" by Zed A.Shaw](https://github.com/XWHQSJ/ebooks/blob/master/Cpp/C/Learn%20C%20the%20Hard%20Way.pdf)(A beginer friendly guide with exercises)
+- Video Course: ["C Programming Tutorial for Beginners" by freeCodeCamp](https://www.youtube.com/watch?v=KJgsSFOSQv0)
+- Website: [TutorialsPoint C Programming](https://www.tutorialspoint.com/cprogramming/index.htm)
+- Project ideas: [C projects by StudyTonight](https://www.studytonight.com/c-projects/)
+- Practice: [HackerRank C Challenges](https://www.hackerrank.com/domains/c)
+
+### Go (Golang)
+- Book: ["An introduction to Programming in Go" by Caleb Doxsey](https://www.golang-book.com/books/intro) ( A begginer friendly book that covers Go basics)
+- Video Course: ["Learn Go Programming- Golang Tutorial for beginners" by freeCodeCamp](https://www.youtube.com/watch?v=YS4e4q9oBaU)
+- Website: [Tour of Go (Official Go Tour)](https://go.dev/tour/welcome/1)
+- Project Ideas: [Golang Projects on GitHub](https://github.com/topics/golang-projects)
+- Practice: [Exercism - Go Track](https://exercism.org/tracks/go)
 
 ---
 
