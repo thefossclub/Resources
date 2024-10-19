@@ -62,6 +62,12 @@ Welcome to The FOSS Club's ultimate resource pack for beginners in tech! This gu
 
 ## Game Development
 
+### Godot 
+- Website: [Official documentation](https://docs.godotengine.org/en/stable/index.html)
+- Video Course: [Brackeys' Beginner Tutorial](https://youtu.be/LOhfqjmasi0)
+- Text Course: [Godot Docs Getting Started](https://docs.godotengine.org/en/stable/getting_started/introduction/index.html)
+- Practice Projects:  [2D Project](https://docs.godotengine.org/en/stable/getting_started/first_2d_game/index.html#prerequisites) [3D Project](https://docs.godotengine.org/en/stable/getting_started/first_3d_game/index.html)
+
 ### Unity
 - Book: [Unity in Action](https://www.manning.com/books/unity-in-action-third-edition)
 - Video Course: [Complete C# Unity Game Developer 2D](https://www.udemy.com/course/unitycourse/)
