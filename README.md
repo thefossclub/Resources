@@ -97,12 +97,13 @@ The frontend is the part of a website or app that you can see and interact with 
 - Practice: [CSS Tricks](https://css-tricks.com/) 
 
 Now,lets focus on the stuff you need to learn inorder to build websites. If you prefer to learn step by step while building projects every time you finish a language or framework, then go ahead with the README file. This type of learning is known as project-based learning (PBL), which I highly emphasize.
-Html -> HTML (HyperText Markup Language) is like the skeleton of a website it holds everything together but doesn’t care much about looking pretty. It’s the language that tells your browser what to show: headings, paragraphs, images, and more.
+
+## Html -> HTML (HyperText Markup Language) is like the skeleton of a website it holds everything together but doesn’t care much about looking pretty. It’s the language that tells your browser what to show: headings, paragraphs, images, and more.
 ##Resources
 - Video lecture: https://www.youtube.com/watch?v=HcOc7P5BMi4
 - Build Projects(Playlist): https://www.youtube.com/playlist?list=PLPppPPmk0i3hZCNmbVtcP1hlwDKOdUFX9
 
-Css -> CSS (Cascading Style Sheets) is like the interior decorator of the web—it takes the plain, boring structure that HTML gives you and makes it look amazing. Think of HTML as a house with just the walls and floors, and then CSS comes in, adds vibrant paint, stylish furniture, and cool lighting. 
+## Css -> CSS (Cascading Style Sheets) is like the interior decorator of the web—it takes the plain, boring structure that HTML gives you and makes it look amazing. Think of HTML as a house with just the walls and floors, and then CSS comes in, adds vibrant paint, stylish furniture, and cool lighting. 
 After css try bootstrap, it is a css framework.
 What are Frameworks??
 Frameworks are pre-built collections of code, tools, and best practices designed to streamline the development process by providing structure and organization. They come with ready-to-use components, built-in solutions for common tasks, and promote coding best practices, which helps developers create applications more efficiently.development gets easy by the help of frameworks.
@@ -110,11 +111,11 @@ Frameworks are pre-built collections of code, tools, and best practices designed
 - Video lecture: https://www.youtube.com/watch?v=HcOc7P5BMi4
 - Build Projects(Playlist): https://www.youtube.com/playlist?list=PLPppPPmk0i3hZCNmbVtcP1hlwDKOdUFX9
 
-Javascript -> JavaScript is a programming language that adds interactivity and dynamic features to websites. It takes a straightforward HTML and CSS setup and enhances it by enabling functionalities like clickable buttons, form validation, animations, and real-time updates. Without JavaScript, websites would be static and unable to respond to user actions.
+## Javascript -> JavaScript is a programming language that adds interactivity and dynamic features to websites. It takes a straightforward HTML and CSS setup and enhances it by enabling functionalities like clickable buttons, form validation, animations, and real-time updates. Without JavaScript, websites would be static and unable to respond to user actions.
 - Video lecture: https://www.youtube.com/watch?v=pN6jk0uUrD8&list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP
 - Build Projects: Build 5 -10 web applications in javascript. Ex- to do app,weather api ,tic tac toe game, clones with different names and push it on your github.  
 
-Frontend frameworks -> A frontend framework is a specialized toolkit designed to streamline the development of user interfaces for web applications.
+## Frontend frameworks -> A frontend framework is a specialized toolkit designed to streamline the development of user interfaces for web applications.
 Frontend frameworks offer numerous advantages over using plain HTML, CSS, and JavaScript by providing pre-built components and libraries that enhance efficiency and speed up development. They enforce a structured approach to coding, promoting organization and reusability, which is especially beneficial in larger projects or teams. Though you need very strong foundation in html,css and javascript to learn frontend frameworks, so first focus on them then move on to frameworks.
 
 React(Recommended)
