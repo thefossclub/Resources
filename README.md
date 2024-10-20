@@ -86,10 +86,12 @@ Welcome to The FOSS Club's ultimate resource pack for beginners in tech! This gu
 
 ## Web Development
 
-###Frontend
+### Frontend
+
 The frontend is the part of a website or app that you can see and interact with directly. Think of it as the "face" of a website—the buttons you click, the text you read, and the images you admire, all without realizing there’s a whole other world of chaos happening behind the scenes. It’s built using HTML for structure (kind of like the bones), CSS for styling (the wardrobe department), and JavaScript to make things interactive (basically the special effects team). So, if websites were people, the frontend would be the stylish outfit, cool hairdo, and the friendly smile, while the backend is the stressed-out brain making sure it all works.
 
-##Resources(Generalised, you should refer them whenever you get stuck and whenever you lack ideas to build project)
+## Resources
+(Generalised, you should refer them whenever you get stuck and whenever you lack ideas to build project)
 - Documentation- https://www.w3schools.com/whatis/
 - Book: [Frontend Developer Handbook](https://frontendmasters.com/guides/front-end-handbook/2019/) (free online)
 - Video Course: [The Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp/) 
