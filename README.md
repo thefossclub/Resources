@@ -164,6 +164,7 @@ Vue.js is a progressive JavaScript framework used for building user interfaces a
 ## Low-Level Programming
 
 - Book: [Computer Systems: A Programmer's Perspective](https://csapp.cs.cmu.edu/)
+- Tutorial: [X86_64 Assembly Tutorials](https://github.com/LilSuperUser/x86_64-asm-tutorials)
 - Video Course: [Nand to Tetris](https://www.coursera.org/learn/build-a-computer)
 - Website: [OS Dev Wiki](https://wiki.osdev.org/Main_Page)
 - Project Ideas: [Low-Level Programming Projects](https://github.com/danistefanovic/build-your-own-x)
