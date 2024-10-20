@@ -6,12 +6,13 @@ Welcome to The FOSS Club's ultimate resource pack for beginners in tech! This gu
 1. [Programming Languages](#programming-languages)
 2. [Game Development](#game-development)
 3. [Web Development](#web-development)
-4. [DevOps](#devops)
-5. [Low-Level Programming](#low-level-programming)
-6. [Cybersecurity](#cybersecurity)
-7. [Web3 and Blockchain](#web3-and-blockchain)
-8. [Data Structures and Algorithms](#data-structures-and-algorithms)
-9. App Development
+4. [App Development](#app-development)
+5. [DevOps](#devops)
+6. [Low-Level Programming](#low-level-programming)
+7. [Cybersecurity](#cybersecurity)
+8. [Web3 and Blockchain](#web3-and-blockchain)
+9. [Data Structures and Algorithms](#data-structures-and-algorithms)
+
 
 ---
 
@@ -149,6 +150,18 @@ Vue.js is a progressive JavaScript framework used for building user interfaces a
 - Project Ideas: [Backend Project Ideas](https://github.com/krishnaik06/Live-API-Projects-for-Practice)
 - Practice: [Express.js Guide](https://expressjs.com/en/starter/installing.html)
 
+---
+##App Development
+
+##Frontend
+Flutter is like the golden child in Google’s app development family. You know, the one that has perfect grades, plays every sport, and still somehow has time to learn the violin. It is an open-source UI software development toolkit created by Google. It is used to build natively compiled applications for mobile (iOS and Android), web, desktop, and embedded devices from a single codebase.
+
+Flutter uses Dart, a language developed by Google, which is easy to learn, especially for those familiar with object-oriented programming.
+A Flowchart - [App Sesh by Harsheysyrup](https://whimsical.com/app-development-session-by-harshvardhan-TsK7dYy1phz93yVM2b85LB)
+
+- Video Course: [Dart and Flutter 3 Bootcamp](https://www.udemy.com/course/dart-and-flutter-3-bootcamp-build-apps-for-any-screen/learn/lecture/37924644#content)
+- Documentation: [Dart and Flutter Official Docs](https://docs.flutter.dev/get-started/fundamentals)
+- Roadmap:[Flutter Developer](https://roadmap.sh/flutter)
 ---
 
 ## DevOps
