@@ -101,8 +101,7 @@ Flowchart -> https://whimsical.com/frontend-DzSzpgNukYYVTQrrsSgEv
 Now,lets focus on the stuff you need to learn inorder to build websites. If you prefer to learn step by step while building projects every time you finish a language or framework, then go ahead with the README file. This type of learning is known as project-based learning (PBL), which I highly emphasize.
 
 ---
-Html -> HTML (HyperText Markup Language) is like the skeleton of a website it holds everything together but doesn’t care much about looking pretty. It’s the language that tells your browser what to show: headings, paragraphs, images, and more.
-
+### HTML
 
 - Video lecture: https://www.youtube.com/watch?v=HcOc7P5BMi4
 - Build Projects(Playlist): https://www.youtube.com/playlist?list=PLPppPPmk0i3hZCNmbVtcP1hlwDKOdUFX9
