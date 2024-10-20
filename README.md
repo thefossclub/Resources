@@ -11,6 +11,7 @@ Welcome to The FOSS Club's ultimate resource pack for beginners in tech! This gu
 6. [Cybersecurity](#cybersecurity)
 7. [Web3 and Blockchain](#web3-and-blockchain)
 8. [Data Structures and Algorithms](#data-structures-and-algorithms)
+9. App Development
 
 ---
 
@@ -88,6 +89,7 @@ Welcome to The FOSS Club's ultimate resource pack for beginners in tech! This gu
 
 ## Frontend
 The frontend is the part of a website or app that you can see and interact with directly. Think of it as the "face" of a website—the buttons you click, the text you read, and the images you admire, all without realizing there’s a whole other world of chaos happening behind the scenes. It’s built using HTML for structure (kind of like the bones), CSS for styling (the wardrobe department), and JavaScript to make things interactive (basically the special effects team). So, if websites were people, the frontend would be the stylish outfit, cool hairdo, and the friendly smile, while the backend is the stressed-out brain making sure it all works.
+Flowchart -> https://whimsical.com/frontend-DzSzpgNukYYVTQrrsSgEv
 
 ### Resources(Generalised, you should refer them whenever you get stuck and whenever you lack ideas to build project)
 - Documentation- https://www.w3schools.com/whatis/
@@ -97,8 +99,11 @@ The frontend is the part of a website or app that you can see and interact with 
 - Practice: [CSS Tricks](https://css-tricks.com/) 
 
 Now,lets focus on the stuff you need to learn inorder to build websites. If you prefer to learn step by step while building projects every time you finish a language or framework, then go ahead with the README file. This type of learning is known as project-based learning (PBL), which I highly emphasize.
+
+---
 Html -> HTML (HyperText Markup Language) is like the skeleton of a website it holds everything together but doesn’t care much about looking pretty. It’s the language that tells your browser what to show: headings, paragraphs, images, and more.
-##Resources
+
+
 - Video lecture: https://www.youtube.com/watch?v=HcOc7P5BMi4
 - Build Projects(Playlist): https://www.youtube.com/playlist?list=PLPppPPmk0i3hZCNmbVtcP1hlwDKOdUFX9
 
