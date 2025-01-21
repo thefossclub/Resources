@@ -11,7 +11,7 @@ Welcome to The FOSS Club's ultimate resource pack for beginners in tech! This gu
 6. [Cybersecurity](#cybersecurity)
 7. [Web3 and Blockchain](#web3-and-blockchain)
 8. [Data Structures and Algorithms](#data-structures-and-algorithms)
-9. App Development
+9. [App Development](#app-development)
 
 ---
 
@@ -20,6 +20,7 @@ Welcome to The FOSS Club's ultimate resource pack for beginners in tech! This gu
 ### Python
 - Book: [Python Crash Course](https://nostarch.com/pythoncrashcourse2e) by Eric Matthes
 - Video Course: [Python for Everybody Specialization](https://www.coursera.org/specializations/python) on Coursera
+- Interactive Course: [Python Programming MOOC 2025](https://programming-25.mooc.fi/) for beginners
 - Website: [Official Python Documentation](https://docs.python.org/3/)
 - Project Ideas: [Python Projects for Beginners](https://realpython.com/projects/python-projects-for-beginners/)
 - Practice: [LeetCode Python Challenges](https://leetcode.com/problemset/all/)
