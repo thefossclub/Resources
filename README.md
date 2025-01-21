@@ -4,8 +4,19 @@ Welcome to The FOSS Club's ultimate resource pack for beginners in tech! This gu
 
 ## Table of Contents
 1. [Programming Languages](#programming-languages)
+   - Python
+   - JavaScript
+   - Java
+   - C++
+   - C
+   - Go (Golang)
 2. [Game Development](#game-development)
+   - Godot
+   - Unity
+   - Unreal Engine
 3. [Web Development](#web-development)
+   - Frontend Development
+   - Backend Development
 4. [DevOps](#devops)
 5. [Low-Level Programming](#low-level-programming)
 6. [Cybersecurity](#cybersecurity)
@@ -96,62 +107,50 @@ Welcome to The FOSS Club's ultimate resource pack for beginners in tech! This gu
 
 ## Web Development
 
-## Frontend
-The frontend is the part of a website or app that you can see and interact with directly. Think of it as the "face" of a website—the buttons you click, the text you read, and the images you admire, all without realizing there’s a whole other world of chaos happening behind the scenes. It’s built using HTML for structure (kind of like the bones), CSS for styling (the wardrobe department), and JavaScript to make things interactive (basically the special effects team). So, if websites were people, the frontend would be the stylish outfit, cool hairdo, and the friendly smile, while the backend is the stressed-out brain making sure it all works.
-Flowchart -> https://whimsical.com/frontend-DzSzpgNukYYVTQrrsSgEv
+### Frontend Development
+Frontend is the part of a website or app that users interact with directly. It consists of:
+1. HTML (Structure)
+2. CSS (Styling)
+3. JavaScript (Interactivity)
 
-### Resources(Generalised, you should refer them whenever you get stuck and whenever you lack ideas to build project)
-- Documentation- https://www.w3schools.com/whatis/
+#### Resources Overview
+- Documentation: [W3Schools Web Dev Guide](https://www.w3schools.com/whatis/)
 - Book: [Frontend Developer Handbook](https://frontendmasters.com/guides/front-end-handbook/2019/) (free online)
 - Video Course: [The Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp/) 
 - Project Ideas: [Frontend Mentor](https://www.frontendmentor.io/)
 - Practice: [CSS Tricks](https://css-tricks.com/) 
 
-Now,lets focus on the stuff you need to learn inorder to build websites. If you prefer to learn step by step while building projects every time you finish a language or framework, then go ahead with the README file. This type of learning is known as project-based learning (PBL), which I highly emphasize.
+#### Learning Path
+1. HTML
+   - Video lecture: [HTML Complete Course](https://www.youtube.com/watch?v=HcOc7P5BMi4)
+   - Projects: [HTML Projects Playlist](https://www.youtube.com/playlist?list=PLPppPPmk0i3hZCNmbVtcP1hlwDKOdUFX9)
 
----
-### HTML
+2. CSS
+   - Video lecture: [CSS Complete Course](https://www.youtube.com/watch?v=HcOc7P5BMi4)
+   - Projects: [CSS Projects Playlist](https://www.youtube.com/playlist?list=PLPppPPmk0i3hZCNmbVtcP1hlwDKOdUFX9)
 
-- Video lecture: https://www.youtube.com/watch?v=HcOc7P5BMi4
-- Build Projects(Playlist): https://www.youtube.com/playlist?list=PLPppPPmk0i3hZCNmbVtcP1hlwDKOdUFX9
+3. JavaScript
+   - Video lecture: [Namaste JavaScript](https://www.youtube.com/watch?v=pN6jk0uUrD8&list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP)
+   - Projects: Build 5-10 web applications (ToDo app, Weather API, etc.)
 
-Css -> CSS (Cascading Style Sheets) is like the interior decorator of the web—it takes the plain, boring structure that HTML gives you and makes it look amazing. Think of HTML as a house with just the walls and floors, and then CSS comes in, adds vibrant paint, stylish furniture, and cool lighting. 
-After css try bootstrap, it is a css framework.
-What are Frameworks??
-Frameworks are pre-built collections of code, tools, and best practices designed to streamline the development process by providing structure and organization. They come with ready-to-use components, built-in solutions for common tasks, and promote coding best practices, which helps developers create applications more efficiently.development gets easy by the help of frameworks.
+#### Frontend Frameworks
 
-- Video lecture: https://www.youtube.com/watch?v=HcOc7P5BMi4
-- Build Projects(Playlist): https://www.youtube.com/playlist?list=PLPppPPmk0i3hZCNmbVtcP1hlwDKOdUFX9
+##### React (Recommended)
+- Documentation: [MDN React Guide](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_getting_started)
+- Video lecture: [Complete React Course](https://www.youtube.com/watch?v=bMknfKXIFA8)
+- Projects: [React Projects Playlist](https://www.youtube.com/playlist?list=PL6QREj8te1P6wX9m5KnicnDVEucbOPsqR)
 
-Javascript -> JavaScript is a programming language that adds interactivity and dynamic features to websites. It takes a straightforward HTML and CSS setup and enhances it by enabling functionalities like clickable buttons, form validation, animations, and real-time updates. Without JavaScript, websites would be static and unable to respond to user actions.
-- Video lecture: https://www.youtube.com/watch?v=pN6jk0uUrD8&list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP
-- Build Projects: Build 5 -10 web applications in javascript. Ex- to do app,weather api ,tic tac toe game, clones with different names and push it on your github.  
+##### Angular
+- Documentation: [MDN Angular Guide](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Angular_getting_started)
+- Video lecture: [Angular Complete Course](https://www.youtube.com/watch?v=3qBXWUpoPHo)
+- Projects: [Angular Projects Playlist](https://www.youtube.com/playlist?list=PL7JmcZV0UQtU5ds45KRtSXA19sOntKTnI)
 
-Frontend frameworks -> A frontend framework is a specialized toolkit designed to streamline the development of user interfaces for web applications.
-Frontend frameworks offer numerous advantages over using plain HTML, CSS, and JavaScript by providing pre-built components and libraries that enhance efficiency and speed up development. They enforce a structured approach to coding, promoting organization and reusability, which is especially beneficial in larger projects or teams. Though you need very strong foundation in html,css and javascript to learn frontend frameworks, so first focus on them then move on to frameworks.
+##### Vue.js
+- Documentation: [MDN Vue.js Guide](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Vue_getting_started)
+- Video lecture: [Vue.js Complete Course](https://www.youtube.com/watch?v=1GNsWa_EZdw)
+- Projects: [Vue.js Projects Playlist](https://www.youtube.com/playlist?list=PL8p2I9GklV44m5tFH-zjCmTiHeq9GZrby)
 
-React(Recommended)
-
-React is a JavaScript library for building user interfaces, particularly single-page applications. It allows developers to create reusable UI components and manage the application state effectively.
-- Documentation: https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_getting_started
-- Video lecture: https://www.youtube.com/watch?v=bMknfKXIFA8
-- Projects: https://www.youtube.com/playlist?list=PL6QREj8te1P6wX9m5KnicnDVEucbOPsqR
-
-Angular
-
-Angular is a platform and framework for building single-page client applications using HTML and TypeScript. It offers a robust structure for developing dynamic web apps.
-- Documentation: https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Angular_getting_started
-- Video lecture: https://www.youtube.com/watch?v=3qBXWUpoPHo
-- Projects: https://www.youtube.com/playlist?list=PL7JmcZV0UQtU5ds45KRtSXA19sOntKTnI
-
-Vue.js
-
-Vue.js is a progressive JavaScript framework used for building user interfaces and single-page applications. It’s designed to be incrementally adoptable and can be integrated into projects easily.
-- Documentation: https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Vue_getting_started
-- Video lecture: https://www.youtube.com/watch?v=1GNsWa_EZdw
-- Projects: https://www.youtube.com/playlist?list=PL8p2I9GklV44m5tFH-zjCmTiHeq9GZrby
-
-### Backend
+### Backend Development
 - Book: [Node.js Design Patterns](https://www.packtpub.com/product/nodejs-design-patterns-third-edition/9781839214110)
 - Video Course: [The Complete Node.js Developer Course](https://www.udemy.com/course/the-complete-nodejs-developer-course-2/)
 - Website: [Node.js Documentation](https://nodejs.org/en/docs/)
