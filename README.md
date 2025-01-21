@@ -39,8 +39,7 @@ Welcome to The FOSS Club's ultimate resource pack for beginners in tech! This gu
 - Project Ideas: [Java Projects for Beginners](https://www.programiz.com/java-programming/projects)
 - Practice: [HackerRank Java Challenges](https://www.hackerrank.com/domains/tutorials/10-days-of-java)
 
-## Backend Development using Springboot/Java
-
+### Backend Development using Springboot/Java
 - Book: [ILearn Microservices with Springboot](https://hoclaptrinhdanang.com/downloads/pdf/spring/Learn%20Microservices%20with%20Spring%20Boot.pdf)
 - Video Course: [Engineering Digest](https://youtube.com/playlist?list=PLA3GkZPtsafacdBLdd3p1DyRd5FGfr3Ue&si=alyCTaP5APF0KGm0)
 - Website: [Spring Documentation](https://docs.spring.io/spring-boot/index.html)
