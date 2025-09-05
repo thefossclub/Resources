@@ -113,39 +113,35 @@ Frontend is the part of a website or app that users interact with directly. It c
 2. CSS (Styling)
 3. JavaScript (Interactivity)
 
-#### Resources Overview
-- Documentation: [W3Schools Web Dev Guide](https://www.w3schools.com/whatis/)
-- Book: [Frontend Developer Handbook](https://frontendmasters.com/guides/front-end-handbook/2019/) (free online)
-- Video Course: [The Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp/) 
-- Project Ideas: [Frontend Mentor](https://www.frontendmentor.io/)
-- Practice: [CSS Tricks](https://css-tricks.com/) 
+#### HTML (Hyper Text Mark Up Language)
+- Video lecture: https://www.youtube.com/watch?v=HcOc7P5BMi4
+- Build Projects(Playlist): https://www.youtube.com/playlist?list=PLPppPPmk0i3hZCNmbVtcP1hlwDKOdUFX9
 
-#### Learning Path
-1. HTML
-   - Video lecture: [HTML Complete Course](https://www.youtube.com/watch?v=HcOc7P5BMi4)
-   - Projects: [HTML Projects Playlist](https://www.youtube.com/playlist?list=PLPppPPmk0i3hZCNmbVtcP1hlwDKOdUFX9)
+#### CSS (Cascading Style Sheets)
+- Video lecture: https://www.youtube.com/watch?v=HcOc7P5BMi4
+- Build Projects(Playlist): https://www.youtube.com/playlist?list=PLPppPPmk0i3hZCNmbVtcP1hlwDKOdUFX9
 
-2. CSS
-   - Video lecture: [CSS Complete Course](https://www.youtube.com/watch?v=HcOc7P5BMi4)
-   - Projects: [CSS Projects Playlist](https://www.youtube.com/playlist?list=PLPppPPmk0i3hZCNmbVtcP1hlwDKOdUFX9)
+#### JavaScript
+- Video lecture: https://www.youtube.com/watch?v=pN6jk0uUrD8&list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP
+- Build Projects: Build 5 -10 web applications in javascript. Ex:
+  - To-Do App
+  - weather API
+  - tic-tac-toe Game
 
-3. JavaScript
-   - Video lecture: [Namaste JavaScript](https://www.youtube.com/watch?v=pN6jk0uUrD8&list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP)
-   - Projects: Build 5-10 web applications (ToDo app, Weather API, etc.)
+### Frontend Frameworks
+Frameworks are pre-built collections of code, tools designed to streamline the development process by providing structure and organization.
 
-#### Frontend Frameworks
-
-##### React (Recommended)
+#### React (Recommended)
 - Documentation: [MDN React Guide](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_getting_started)
 - Video lecture: [Complete React Course](https://www.youtube.com/watch?v=bMknfKXIFA8)
 - Projects: [React Projects Playlist](https://www.youtube.com/playlist?list=PL6QREj8te1P6wX9m5KnicnDVEucbOPsqR)
 
-##### Angular
+#### Angular
 - Documentation: [MDN Angular Guide](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Angular_getting_started)
 - Video lecture: [Angular Complete Course](https://www.youtube.com/watch?v=3qBXWUpoPHo)
 - Projects: [Angular Projects Playlist](https://www.youtube.com/playlist?list=PL7JmcZV0UQtU5ds45KRtSXA19sOntKTnI)
 
-##### Vue.js
+#### Vue.js
 - Documentation: [MDN Vue.js Guide](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Vue_getting_started)
 - Video lecture: [Vue.js Complete Course](https://www.youtube.com/watch?v=1GNsWa_EZdw)
 - Projects: [Vue.js Projects Playlist](https://www.youtube.com/playlist?list=PL8p2I9GklV44m5tFH-zjCmTiHeq9GZrby)
@@ -156,6 +152,13 @@ Frontend is the part of a website or app that users interact with directly. It c
 - Website: [Node.js Documentation](https://nodejs.org/en/docs/)
 - Project Ideas: [Backend Project Ideas](https://github.com/krishnaik06/Live-API-Projects-for-Practice)
 - Practice: [Express.js Guide](https://expressjs.com/en/starter/installing.html)
+
+### Resources Overview
+- Documentation: [W3Schools Web Dev Guide](https://www.w3schools.com/whatis/)
+- Book: [Frontend Developer Handbook](https://frontendmasters.com/guides/front-end-handbook/2019/) (free online)
+- Video Course: [The Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp/) 
+- Project Ideas: [Frontend Mentor](https://www.frontendmentor.io/)
+- Practice: [CSS Tricks](https://css-tricks.com/) 
 
 ---
 
